@@ -27,7 +27,7 @@
 
 ### 📊 Statistiques GitHub
 
-![Stats de Souf-F](https://github-readme-stats.vercel.app/api?username=Souf-F&show_icons=true&theme=dark&hide_border=true)
+![Stats de Souf-F](https://github-readme-stats.vercel.app/api?username=Souf-F&show_icons=true&theme=transparent)
 
 ---
 
