@@ -48,11 +48,10 @@ Ma méthodologie de travail repose sur les piliers de la formation Holberton : a
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souf-F&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats de Souf-F" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souf-F&layout=compact&theme=dark&hide_border=true" alt="Langages de Souf-F" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Souf-F&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats de Souf-F" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souf-F&layout=compact&theme=dark&hide_border=true" alt="Langages de Souf-F" />
 </p>
-
 ---
 
 ### 📫 Me contacter
