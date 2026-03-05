@@ -12,9 +12,9 @@
 <p align="center">
   <a href="https://www.holbertonschool.fr/campus/toulouse">
    <img 
-    src="https://i.imgur.com/nZQc4Zv.png" 
-    alt="Cyber Security Eye"
-    style="width:1500px; height:auto;">
+  src="https://i.imgur.com/nZQc4Zv.png"
+  alt="Cyber Security Eye"
+  style="width:900px; height:800px;">
   </a>
 </p>
 
