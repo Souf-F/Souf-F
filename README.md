@@ -14,7 +14,7 @@
    <img 
   src="https://i.imgur.com/nZQc4Zv.png"
   alt="Cyber Security Eye"
-  style="width:1000px; height:400px;">
+  style="width:1500px; height:500px;">
   </a>
 </p>
 
