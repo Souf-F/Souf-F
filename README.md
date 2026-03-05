@@ -58,21 +58,7 @@ My learning methodology follows the core values of the Holberton program: **auto
 - **Whiteboarding:** Ability to explain complex algorithms visually  
 - **Research & Autonomy:** Strong capability to independently find technical solutions  
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Souf-F&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souf-F&layout=compact&theme=dark&hide_border=true" />
-
-</p>
-
----
 
 ## 📫 Contact
 
