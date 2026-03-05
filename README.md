@@ -1,4 +1,13 @@
-# 👋 Salut, je suis Souf-F !
+# 👋 Hi, I'm Souf-F!
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SCHOOL-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HOLBERTON_SCHOOL_TOULOUSE-E2573E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/GOAL-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CYBER_SECURITY-8BC500?style=for-the-badge" />
+
+</p>
 
 <p align="center">
   <a href="https://www.holbertonschool.fr/campus/toulouse">
@@ -7,58 +16,67 @@
 </p>
 
 <p align="center">
-  <b>Étudiant Développeur Web & Mobile @ Holberton School Toulouse | Aspirant Cybersécurité</b>
+  <b>Web & Mobile Development Student @ Holberton School Toulouse | Aspiring Cybersecurity Specialist</b>
 </p>
 
 ---
 
-### 📝 À propos de moi
+## 📝 About Me
 
-Après avoir débuté mon cursus à [Holberton School Toulouse](https://www.holbertonschool.fr/campus/toulouse), je me consacre pleinement à l'acquisition de compétences solides en développement Full Stack. Âgé de 25 ans, je prépare actuellement un titre **RNCP 5 (Développeur d'application web et mobile)**.
+I am currently studying at **Holberton School Toulouse**, where I am building strong foundations in **Full Stack development**.
 
-Ma méthodologie de travail repose sur les piliers de la formation Holberton : autonomie, rigueur et collaboration. Mon objectif à terme est de me spécialiser dans le domaine de la **Cybersécurité**.
+At 25 years old, I am pursuing a **RNCP Level 5 certification in Web and Mobile Application Development**.
 
-- 🔭 **Focus actuel** : Maîtrise des fondamentaux du développement et des systèmes.
-- 👨‍💻 **Philosophie** : Passionné par la résolution de problèmes complexes et l'apprentissage continu.
-- 🎯 **Objectif pro** : Bâtir une expertise technique polyvalente pour sécuriser les infrastructures de demain.
-- 🛠️ **Approche** : Une curiosité naturelle pour comprendre les mécanismes profonds du code et des systèmes.
+My learning methodology follows the core values of the Holberton program: **autonomy, rigor, and collaboration**. My long-term goal is to specialize in **Cybersecurity** and contribute to securing tomorrow’s digital infrastructures.
+
+- 🔭 **Current Focus:** Mastering the fundamentals of software development and computer systems  
+- 👨‍💻 **Philosophy:** Passionate about solving complex problems and continuous learning  
+- 🎯 **Career Goal:** Build versatile technical expertise to secure future infrastructures  
+- 🛠 **Approach:** Deep curiosity for understanding how code and systems work internally  
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Shell_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Shell_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
 ---
 
-### 🤝 Méthodologie & Soft Skills
+## 🤝 Methodology & Soft Skills
 
-* **Peer-Learning** : Apprentissage collaboratif et résolution de problèmes en équipe.
-* **Whiteboarding** : Capacité à schématiser et expliquer des logiques algorithmiques complexes.
-* **Recherche & Autonomie** : Aptitude à trouver des solutions techniques de manière indépendante.
+- **Peer Learning:** Collaborative learning and team-based problem solving  
+- **Whiteboarding:** Ability to explain complex algorithms visually  
+- **Research & Autonomy:** Strong capability to independently find technical solutions  
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Souf-F&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats de Souf-F" />
-  <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souf-F&layout=compact&theme=dark&hide_border=true" alt="Langages de Souf-F" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Souf-F&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souf-F&layout=compact&theme=dark&hide_border=true" />
+
 </p>
+
 ---
 
-### 📫 Me contacter
+## 📫 Contact
 
-* **Formation** : [Holberton School Toulouse](https://www.holbertonschool.fr/campus/toulouse)
-* **GitHub** : [Souf-F](https://github.com/Souf-F)
+- 🎓 **Education:** Holberton School Toulouse  
+- 💻 **GitHub:** https://github.com/Souf-F  
 
-<p align="right">
-  <i>"Apprendre, comprendre, sécuriser."</i>
-</p>
+---
+
+> **"Learn. Understand. Secure."**
