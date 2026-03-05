@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.holbertonschool.fr/campus/toulouse">
-    <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlXl_FVRwh-u85d0sbWYUgRepV3V5Wfe1TQ&s](https://i.imgur.com/nZQc4Zv.png)" alt="Holberton School Toulouse" width="200">
+    <img src="https://imgur.com/a/J7mFvP3" alt="Cyber Security" width="200">
   </a>
 </p>
 
