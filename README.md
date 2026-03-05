@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Souf-F!
 
 <p align="center">
+  <a href="https://www.holbertonschool.fr/campus/toulouse">
+   <img 
+  src="https://i.imgur.com/nZQc4Zv.png"
+  alt="Cyber Security Eye"
+  style="width:1500px; height:450px;">
+  </a>
+  <p align="center">
 
 <img src="https://img.shields.io/badge/SCHOOL-555555?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HOLBERTON_SCHOOL_TOULOUSE-E2573E?style=for-the-badge&logoColor=white" />
@@ -8,14 +15,6 @@
 <img src="https://img.shields.io/badge/CYBER_SECURITY-8BC500?style=for-the-badge" />
 
 </p>
-
-<p align="center">
-  <a href="https://www.holbertonschool.fr/campus/toulouse">
-   <img 
-  src="https://i.imgur.com/nZQc4Zv.png"
-  alt="Cyber Security Eye"
-  style="width:1500px; height:450px;">
-  </a>
 </p>
 
 <p align="center">
