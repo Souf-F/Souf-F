@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Souf-F!
 
+https://github.com/user-attachments/assets/d7e06fca-70c8-44b6-94f2-11b01382c934
+
 <p align="center">
   <a href="https://www.holbertonschool.fr/campus/toulouse">
    <img 
