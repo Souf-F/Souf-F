@@ -42,7 +42,7 @@ My long-term ambition is to work in **Cybersecurity** — but I believe a strong
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Souf-F&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Souf-F&theme=tokyonight" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Souf-F&theme=tokyonight" height="165" />
 </p>
 
