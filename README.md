@@ -127,7 +127,14 @@ Alongside development, I'm building knowledge in security fundamentals:
 
 ## 📫 Contact
 
-- 🎓 **Education:** Holberton School Toulouse — RNCP Niveau 6, Développeur Concepteur d'Application
+<p align="left">
+  <a href="https://www.linkedin.com/in/soufiane-filali-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://aeonlabs.fr/">
+    <img src="https://img.shields.io/badge/Portfolio-aeonlabs.fr-3b82f6?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
 
