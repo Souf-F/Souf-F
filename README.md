@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.holbertonschool.fr/campus/toulouse">
-    <img 
+    <img
       src="https://i.imgur.com/nZQc4Zv.png"
       alt="Cyber Security Eye"
       style="width:1500px; height:450px;">
@@ -28,14 +28,31 @@
 
 I am a **Junior Full Stack Developer** training at **Holberton School Toulouse**, where I am building strong foundations across the full web development stack — from backend logic to frontend interfaces.
 
-I am pursuing an **RNCP Level 6 certification in Web & Application Development**, with a parallel self-directed specialization in **Cybersecurity**.
+I am pursuing an **RNCP Level 6 — Développeur Concepteur d'Application**, with a parallel self-directed specialization in **Cybersecurity**.
 
-My long-term ambition is to work in **Cybersecurity** — but I believe a strong developer makes a stronger security professional. That's why I'm focused on **mastering Full Stack development first**: understanding how applications are truly built is, to me, the best foundation for learning how to secure them. In short, I work at the intersection of both worlds, and I'm steadily steering my career toward security.
+My long-term ambition is to work in **Cybersecurity** — but I believe a strong developer makes a stronger security professional. That's why I'm focused on **mastering Full Stack development first**: understanding how applications are truly built is, to me, the best foundation for learning how to secure them.
 
 - 🔭 **Current Focus:** Building real-world Full Stack projects (frontend + backend + deployment)
 - 🛡️ **Specialization Track:** Cybersecurity — OSINT, offensive scripting & pentest fundamentals
 - 🎯 **Career Goal:** Become a versatile developer, then specialize in securing digital infrastructures
 - 👨‍💻 **Philosophy:** Understand how it's built before you learn how to break or protect it
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souf-F&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souf-F&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Souf-F&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Souf-F&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -88,6 +105,17 @@ Alongside development, I'm building knowledge in security fundamentals:
 
 ---
 
+## 🌐 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Portfolio** | Personal portfolio — canvas animations, cybersecurity globe, vanilla JS | [aeonlabs.fr](https://aeonlabs.fr/) |
+| **Cyber Cheatsheet** | Cybersecurity learning platform — 54 sheets, XP system, 43 badges | [cyber-cheatsheet.aeonlabs.fr](https://cyber-cheatsheet.aeonlabs.fr/) |
+| **AERIS** | Cyber risk management tool for aerospace & defense — EBIOS RM methodology | [aeris.aeonlabs.fr](https://aeris.aeonlabs.fr/) |
+| **ECO-AUDIT** | Anti-corruption investigation serious game | [ecoaudit.aeonlabs.fr](https://ecoaudit.aeonlabs.fr/) |
+
+---
+
 ## 🤝 Methodology & Soft Skills
 
 - **Peer Learning:** Collaborative learning and team-based problem solving
@@ -99,8 +127,7 @@ Alongside development, I'm building knowledge in security fundamentals:
 
 ## 📫 Contact
 
-- 🎓 **Education:** Holberton School Toulouse
-- 💻 **GitHub:** [github.com/Souf-F](https://github.com/Souf-F)
+- 🎓 **Education:** Holberton School Toulouse — RNCP Niveau 6, Développeur Concepteur d'Application
 
 ---
 
