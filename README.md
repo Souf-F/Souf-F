@@ -26,14 +26,14 @@
 
 ## 📝 About Me
 
-I am a **Junior Full Stack Developer** training at **Holberton School Toulouse**, where I am building strong foundations across the full web development stack — from backend logic to frontend interfaces.
+I am a **Junior Full Stack Developer** training at **Holberton School Toulouse**, where I am building strong foundations across the full web development stack from backend logic to frontend interfaces.
 
-I am pursuing an **RNCP Level 6 — Développeur Concepteur d'Application**, with a parallel self-directed specialization in **Cybersecurity**.
+I am pursuing an **RNCP Level 6, Développeur Concepteur d'Application**, with a parallel self-directed specialization in **Cybersecurity**.
 
-My long-term ambition is to work in **Cybersecurity** — but I believe a strong developer makes a stronger security professional. That's why I'm focused on **mastering Full Stack development first**: understanding how applications are truly built is, to me, the best foundation for learning how to secure them.
+My long-term ambition is to work in **Cybersecurity** but I believe a strong developer makes a stronger security professional. That's why I'm focused on **mastering Full Stack development first**: understanding how applications are truly built is, to me, the best foundation for learning how to secure them.
 
 - 🔭 **Current Focus:** Building real-world Full Stack projects (frontend + backend + deployment)
-- 🛡️ **Specialization Track:** Cybersecurity — OSINT, offensive scripting & pentest fundamentals
+- 🛡️ **Specialization Track:** Cybersecurity: OSINT, offensive scripting & pentest fundamentals
 - 🎯 **Career Goal:** Become a versatile developer, then specialize in securing digital infrastructures
 - 👨‍💻 **Philosophy:** Understand how it's built before you learn how to break or protect it
 
@@ -98,10 +98,10 @@ My long-term ambition is to work in **Cybersecurity** — but I believe a strong
 
 Alongside development, I'm building knowledge in security fundamentals:
 
-- **OSINT** — open-source intelligence gathering & investigation
-- **Offensive Scripting** — automation for recon and testing
-- **Pentest Fundamentals** — understanding vulnerabilities from the inside out
-- **OpSec & Legal Frameworks** — responsible, ethical practice
+- **OSINT:** open-source intelligence gathering & investigation
+- **Offensive Scripting:** automation for recon and testing
+- **Pentest Fundamentals:** understanding vulnerabilities from the inside out
+- **OpSec & Legal Frameworks:** responsible, ethical practice
 
 ---
 
@@ -109,9 +109,9 @@ Alongside development, I'm building knowledge in security fundamentals:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Portfolio** | Personal portfolio — canvas animations, cybersecurity globe, vanilla JS | [aeonlabs.fr](https://aeonlabs.fr/) |
-| **Cyber Cheatsheet** | Cybersecurity learning platform — 54 sheets, XP system, 43 badges | [cyber-cheatsheet.aeonlabs.fr](https://cyber-cheatsheet.aeonlabs.fr/) |
-| **AERIS** | Cyber risk management tool for aerospace & defense — EBIOS RM methodology | [aeris.aeonlabs.fr](https://aeris.aeonlabs.fr/) |
+| **Portfolio** | Personal portfolio: canvas animations, cybersecurity globe, vanilla JS | [aeonlabs.fr](https://aeonlabs.fr/) |
+| **Cyber Cheatsheet** | Cybersecurity learning platform: 54 sheets, XP system, 43 badges | [cyber-cheatsheet.aeonlabs.fr](https://cyber-cheatsheet.aeonlabs.fr/) |
+| **AERIS** | Cyber risk management tool for aerospace & defense, EBIOS RM methodology | [aeris.aeonlabs.fr](https://aeris.aeonlabs.fr/) |
 | **ECO-AUDIT** | Anti-corruption investigation serious game | [ecoaudit.aeonlabs.fr](https://ecoaudit.aeonlabs.fr/) |
 
 ---
