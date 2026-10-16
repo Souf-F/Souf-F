@@ -1,36 +1,36 @@
-# 👋 Hi, I'm Souf-F!
+# 👋 Salut, je suis Souf-F !
 
 <p align="center">
   <a href="https://aeonlabs.fr">
     <img
       src="./og-image.png"
-      alt="Soufiane Filali — Full Stack Agentic Developer"
+      alt="Soufiane Filali — Développeur Full Stack Agentique"
       width="100%">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SCHOOL-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ÉCOLE-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HOLBERTON_SCHOOL_TOULOUSE-E2573E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROLE-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-0A66C2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RÔLE-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DÉVELOPPEUR_FULL_STACK-0A66C2?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_AGENTS-8BC500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AGENTS_IA-8BC500?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>Full Stack Developer @ Holberton School Toulouse | Building AI Agents & Intelligent Systems</b>
+  <b>Développeur Full Stack @ Holberton School Toulouse | Construction de systèmes agentiques et intelligents</b>
 </p>
 
 ---
 
-## About Me
+## À propos
 
-Full Stack Developer at Holberton School Toulouse, building agentic systems where LLMs plan, act, and loop — always under human supervision, never without it.
+Développeur Full Stack à Holberton School Toulouse, je construis des systèmes agentiques où les LLM planifient, agissent et bouclent — toujours sous supervision humaine, jamais sans.
 
 ---
 
-## GitHub Stats
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Souf-F&theme=tokyonight" height="165" />
@@ -47,9 +47,9 @@ Full Stack Developer at Holberton School Toulouse, building agentic systems wher
 
 ---
 
-## Tech Stack
+## Stack technique
 
-**Languages**
+**Langages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -59,7 +59,7 @@ Full Stack Developer at Holberton School Toulouse, building agentic systems wher
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**AI & Agentic**
+**IA et Agentique**
 <p align="left">
   <img src="https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LiteLLM-6366F1?style=for-the-badge&logoColor=white" />
@@ -67,7 +67,7 @@ Full Stack Developer at Holberton School Toulouse, building agentic systems wher
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-**Frameworks & Libraries**
+**Frameworks et librairies**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -75,14 +75,14 @@ Full Stack Developer at Holberton School Toulouse, building agentic systems wher
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-**Databases**
+**Bases de données**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 </p>
 
-**Tools & Environment**
+**Outils et environnement**
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Shell_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -92,25 +92,25 @@ Full Stack Developer at Holberton School Toulouse, building agentic systems wher
 
 ---
 
-## Agentic Projects
+## Projets agentiques
 
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **Pennyworth** | Digital butler — transforms natural language intent into action plans, nothing executes without human validation | Claude API, Python, FastAPI | [pennyworth.adamzou.fr](https://pennyworth.adamzou.fr) |
-| **La Taupe** | RAG agent hardened against indirect prompt injection — hostile documents are quarantined at the data layer, never at the prompt | Python, FastAPI, Claude API | [github.com/Souf-F](https://github.com/Souf-F/hackathon-agentique) |
-| **AI Study Guide** | Multi-agent pipeline that generates structured study guides from a topic — explainer, practice designer, reviewer in sequence | Google ADK, LiteLLM, Ollama | [repo](https://github.com/Souf-F/ai-agents-intro) |
-| **Oxydian** | Google Workspace configuration auditor — read-only audit pipeline with React/TS frontend | React, TypeScript, Vite, Go | Private |
-| **Portfolio** | Personal site: canvas animations, particle networks, 3D globe | Vanilla JS, HTML/CSS | [aeonlabs.fr](https://aeonlabs.fr/) |
-| **Cyber Cheatsheet** | Cybersecurity learning platform: 54 sheets, XP system, 43 badges | Vanilla JS | [cyber-cheatsheet.aeonlabs.fr](https://cyber-cheatsheet.aeonlabs.fr/) |
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| **Pennyworth** | Majordome numérique : transforme une intention en langage naturel en plan d'actions, rien ne s'exécute sans validation humaine | Claude API, Python, FastAPI | [pennyworth.adamzou.fr](https://pennyworth.adamzou.fr) |
+| **La Taupe** | Agent RAG durci contre l'injection de prompt indirecte : les documents hostiles sont mis en quarantaine au niveau des données, jamais au niveau du prompt | Python, FastAPI, Claude API | [github.com/Souf-F](https://github.com/Souf-F/hackathon-agentique) |
+| **AI Study Guide** | Pipeline multi-agents qui génère des guides d'étude structurés : explicateur, créateur d'exercices et relecteur en séquence | Google ADK, LiteLLM, Ollama | [repo](https://github.com/Souf-F/ai-agents-intro) |
+| **Oxydian** | Auditeur de configuration Google Workspace en lecture seule, avec frontend React/TS | React, TypeScript, Vite, Go | Privé |
+| **Portfolio** | Site personnel : animations canvas, réseaux de particules, globe 3D | Vanilla JS, HTML/CSS | [aeonlabs.fr](https://aeonlabs.fr/) |
+| **Cyber Cheatsheet** | Plateforme d'apprentissage cybersécurité : 54 fiches, système XP, 43 badges | Vanilla JS | [cyber-cheatsheet.aeonlabs.fr](https://cyber-cheatsheet.aeonlabs.fr/) |
 
 ---
 
-## How I Think About Agents
+## Ma vision des agents
 
-- **Human in the loop:** an agent that can't be stopped is a liability, not a tool
-- **Data vs. authority:** external inputs are data — an agent that treats them as commands is already compromised
-- **Minimal footprint:** an agent should request only the permissions it needs for the current step
-- **Legible traces:** every action logged, every decision explainable
+- **Humain dans la boucle :** un agent qu'on ne peut pas arrêter est un risque, pas un outil
+- **Donnée vs autorité :** les entrées externes sont des données, un agent qui les traite comme des commandes est déjà compromis
+- **Empreinte minimale :** un agent ne demande que les permissions nécessaires à l'étape en cours
+- **Traces lisibles :** chaque action journalisée, chaque décision explicable
 
 ---
 
@@ -122,4 +122,4 @@ Full Stack Developer at Holberton School Toulouse, building agentic systems wher
 
 ---
 
-> **"An agent that acts without understanding is just automation. Make it understand first."**
+> **"Un agent qui agit sans comprendre n'est que de l'automatisation. Fais-le comprendre d'abord."**
