@@ -4,7 +4,7 @@
   <a href="https://aeonlabs.fr">
     <img
       src="./og-image.png"
-      alt="Soufiane Filali — Développeur Full Stack Agentique"
+      alt="Soufiane Filali, Développeur Full Stack Agentique"
       width="100%">
   </a>
 </p>
@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <b>Développeur Full Stack @ Holberton School Toulouse | Construction de systèmes agentiques et intelligents</b>
+  <b>Développeur Full Stack Agentique & Solutions d'Automatisation @ Holberton School Toulouse</b>
 </p>
 
 ---
 
 ## À propos
 
-Développeur Full Stack à Holberton School Toulouse, je construis des systèmes agentiques où les LLM planifient, agissent et bouclent — toujours sous supervision humaine, jamais sans.
+Développeur Full Stack à Holberton School Toulouse, je construis des systèmes agentiques où les LLM planifient, agissent et bouclent, toujours sous supervision humaine, jamais sans.
 
 ---
 
@@ -97,7 +97,7 @@ Développeur Full Stack à Holberton School Toulouse, je construis des systèmes
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
 | **Pennyworth** | Majordome numérique : transforme une intention en langage naturel en plan d'actions, rien ne s'exécute sans validation humaine | Claude API, Python, FastAPI | [pennyworth.adamzou.fr](https://pennyworth.adamzou.fr) |
-| **Oracle** | Agent RAG durci contre l'injection de prompt indirecte : les documents hostiles sont mis en quarantaine au niveau des données, jamais au niveau du prompt | Python, FastAPI, Claude API | [oracle.aeonlabs.fr](https://oracle.aeonlabs.fr/) |
+| **Oracle** | Agent RAG durci contre l'injection de prompt indirecte : les documents hostiles sont mis en quarantaine au niveau des données, pas au niveau du prompt | Python, FastAPI, Claude API | [oracle.aeonlabs.fr](https://oracle.aeonlabs.fr/) |
 | **AI Study Guide** | Pipeline multi-agents qui génère des guides d'étude structurés : explicateur, créateur d'exercices et relecteur en séquence | Google ADK, LiteLLM, Ollama | [repo](https://github.com/Souf-F/ai-agents-intro) |
 | **Oxydian** | Auditeur de configuration Google Workspace en lecture seule, avec frontend React/TS | React, TypeScript, Vite, Go | Privé |
 | **Portfolio** | Site personnel : animations canvas, réseaux de particules, globe 3D | Vanilla JS, HTML/CSS | [aeonlabs.fr](https://aeonlabs.fr/) |
